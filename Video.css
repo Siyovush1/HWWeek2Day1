@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+}
+.Home{
+    width: 100%;
+    height: 100vh;
+    display: inline;
+}
+.Block{
+    height: 20vh;
+    display: inline;
+}
+ul{
+    background-color: white;
+    list-style: none;
+    padding: 25px 10px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.8em;
+    padding: 5px;    
+    font-size: 1.8em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    display: inline;
+    padding: 5px 5px 5px 30px;
+    
+}
+li a:hover{
+    color: silver;
+}
+li:hover{
+    color: silver;
+}
+.Video1{
+    background-color: rgb(155, 159, 160);
+    height: 100vh;
+    padding: 100px 24px 24px 24px;
+    display: flex;
+    
+}
+.VPart1 h2{
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 64px;
+    color: white;
+}
+.Vpart2{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    line-height: 0%;
+}
+video{
+    padding: 2px;
+}
+.Contacts{
+    height: 30vh;
+    background-color: black;
+    display: flex;
+}
+.ASpart3 h3{
+    text-align: left;
+    font-size: 2em;
+    color: rgb(240, 240, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    line-height: 1.2;
+    padding: 48px;
+}
+.ASpart3 p{
+    text-align: left;
+    font-size: 1em;
+    color: rgb(240, 240, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    line-height: 1.8;
+    padding: 4px;
+    padding-left: 48px;
+}
+.Icons{
+    color: white;
+    padding-top: 150px;
+    padding-left: 1600px;
+    font-size: 5em;
+    opacity: 1;
+}
+.Icons:hover{
+    opacity: 0.8;
+}

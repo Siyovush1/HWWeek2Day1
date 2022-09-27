@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+}
+.Home{
+    width: 100%;
+    height: 100vh;
+    display: inline;
+}
+.Block{
+    height: 20vh;
+    display: inline;
+}
+ul{
+    background-color: white;
+    list-style: none;
+    padding: 25px 10px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.8em;
+    padding: 5px;    
+    font-size: 1.8em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+li{
+    display: inline;
+    padding: 5px 5px 5px 30px;
+    
+}
+li a:hover{
+    color: silver;
+}
+li:hover{
+    color: silver;
+}
+.home1{
+    background-color: rgb(90, 170, 212);
+    height: 100vh;
+    overflow: auto;
+    display: flex;
+}
+img{
+    opacity: 1;
+}
+img:hover{
+    opacity: 0.8;
+}
+.Aboutus2{
+    background-color: white);
+    height: 100vh;
+    padding: 24px;
+    line-height: 1;
+    display: flex;
+    overflow: auto;
+
+}
+.ASpart1{
+    width: 50%;
+    padding-top: 300px;
+}
+.ASpart1 h2{
+    color: rgb(28, 26, 26);
+    font-size: 3em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 24px;
+    text-align: center;
+}
+.ASpart1 p{
+    text-align: left;
+    font-size: 1.2em;
+    color: rgb(27, 27, 28);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    line-height: 1.2;
+}
+.ASpart2{
+    width: 50%;
+    padding-top: 250px;
+}
+.Contacts{
+    height: 30vh;
+    background-color: black;
+    display: flex;
+}
+.ASpart3 h3{
+    text-align: left;
+    font-size: 2em;
+    color: rgb(240, 240, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    line-height: 1.2;
+    padding: 48px;
+}
+.ASpart3 p{
+    text-align: left;
+    font-size: 1em;
+    color: rgb(240, 240, 243);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    line-height: 1.8;
+    padding: 4px;
+    padding-left: 48px;
+}
+.Icons{
+    color: white;
+    padding-top: 150px;
+    padding-left: 1600px;
+    font-size: 5em;
+    opacity: 1;
+}
+.Icons:hover{
+    opacity: 0.8;
+}
